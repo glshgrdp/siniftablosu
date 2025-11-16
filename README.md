@@ -1,3 +1,10 @@
+
+
+<img width="1909" height="968" alt="Ekran görüntüsü 2025-11-16 205545" src="https://github.com/user-attachments/assets/68a98389-5f91-446c-82c7-cc212aecf9cf" />
+
+
+
+
 # siniftablosu
 
 <!DOCTYPE html>
